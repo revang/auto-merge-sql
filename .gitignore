@@ -3,5 +3,5 @@ build/
 
 *.spec
 *.exe
-!*convert-icon.exe
+!*auto-merge-sql.exe
 *.sql
